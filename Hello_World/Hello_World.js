@@ -1,2 +1,2 @@
 let frase = "Hello World!";
-alert(frase);
+console.log(frase);

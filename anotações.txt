@@ -1,0 +1,15 @@
+
+CONDICIONAL{
+    if em cascata ( if(){
+        if(){
+            console.log("IF DENTRO DE IF")!
+        }
+    })
+}
+
+    estrutura ternária (let "variavel" = 5 > 4 ? true : false)!
+
+==================================================
+ARRAYS{
+    langht(verificar o tamanho do array);
+}

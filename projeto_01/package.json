@@ -1,0 +1,19 @@
+{
+  "name": "pro_npm01",
+  "version": "0.0.1",
+  "description": "primeiro projeto npm",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Alan Santos",
+  "license": "ISC"
+}

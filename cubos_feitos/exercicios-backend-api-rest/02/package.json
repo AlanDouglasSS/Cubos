@@ -1,0 +1,23 @@
+{
+  "name": "lista_convidados",
+  "version": "0.0.8",
+  "description": "Lista de Convidados",
+  "main": "index.js",
+  "scripts": {
+    "code": "nodemon ./assets/index.js"
+  },
+  "keywords": [
+    "JS",
+    "NODE",
+    "NPM"
+  ],
+  "author": "Alan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}

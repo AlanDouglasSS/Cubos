@@ -1,0 +1,23 @@
+{
+  "name": "calcular_frete",
+  "version": "0.0.9",
+  "description": "Calculadora de frete",
+  "main": "index.js",
+  "scripts": {
+    "cal": "nodemon ./src/index.js"
+  },
+  "keywords": [
+    "JS",
+    "NODE",
+    "NPM"
+  ],
+  "author": "Alan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "utils-playground": "^1.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
